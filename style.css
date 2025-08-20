@@ -1,10 +1,10 @@
 div {
   background-color: rgb(243, 242, 240);
-  font-size: 16px;
-  margin: 50px 100px;
-  padding: 10px 40px;
-  margin: 40%;
+  font-size: 14px;
+  margin: 10% 20%;
   margin: auto 30%;
+  padding: 10px 40px;
+  border-radius: 30px;
 }
 .form {
   color: red;
@@ -13,14 +13,17 @@ div {
 .tell {
   font-size: 20px;
 }
-
-.anotherone {
-  margin: 10%;
-}
 button {
   width: 70%;
   height: 40px;
   border-radius: 40px;
   color: red;
   border-color: red;
+  margin-left: 60px;
+  margin-bottom: 30px;
+}
+
+form {
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
