@@ -1,4 +1,4 @@
-div {
+.first {
   background-color: rgb(243, 242, 240);
   font-size: 14px;
   margin: 10% 20%;
@@ -26,4 +26,34 @@ button {
 form {
   margin-top: 30px;
   margin-bottom: 30px;
+}
+.second {
+  margin-top: 10%;
+  background-color: black;
+  color: white;
+  margin-left: 30%;
+  margin-right: 30%;
+
+  padding: 10px 40px;
+  border-radius: 30px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+p {
+  font-size: 20px;
+}
+.border {
+  border-radius: 30px;
+  width: 70%;
+  height: 40px;
+  background-color: black;
+  border-color: white;
+}
+
+div {
+  background-color: pink;
+  margin-top: 50px;
 }
